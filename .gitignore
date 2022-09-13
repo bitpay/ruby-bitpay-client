@@ -1,5 +1,10 @@
 *.gem
 *.rbc
+Gemfile.lock
+.rspec
+.rspec_status
+.ruby-version
+private_key.pem
 /.config
 /coverage/
 /InstalledFiles
